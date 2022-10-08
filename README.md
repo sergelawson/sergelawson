@@ -3,7 +3,7 @@
 Hi I'm Serge Lawson<br><br>I'm a self-taught <b>Fullstack Developer</b> with 5 years of experience. With my solid background in Data structures, Algorithms, problem-solving, and my deep knowledge of <b>TypeScript</b>, <b>React</b>, <b>Node.js</b>, <b>Express</b>, and <b>AWS</b>, I proactively contributed to building and deploying a dozen of applications to the cloud.
 
 - 🔭 My main tech stack is React, Node.js, Express, and AWS
-- 📚 My current interest goes to Machine Learning with Python, Pandas, Scikit Learn, Pytorch, Tensorflow, Fast.ai
+- 📚 My current learning interest goes to Machine Learning with Python, Pandas, Scikit Learn, Pytorch, Tensorflow, Fast.ai
 
 ## 🌐 Socials:
 
