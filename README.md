@@ -6,6 +6,9 @@ Hi I'm Serge Lawson<br><br>I'm a <b>Fullstack Developer</b> with 5 years of expe
 - 🔭 My main tech stack is React, Node.js, Express, and AWS
 - 📚 My current learning interest goes to Machine Learning with Python, Pandas, Scikit Learn, Pytorch, Tensorflow, Fast.ai
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sergelawson&langs_count=5&theme=tokyonight)]()
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergelawson)
